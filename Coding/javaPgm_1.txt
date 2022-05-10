@@ -1,0 +1,44 @@
+import java.lang.*;
+import java.util.*;
+
+class Main{
+    public static void main (String[] args) {
+        double[] R={42.195,42.195,42.195,33.25,40,41.2,38.9,37.5};
+        //int[] R={1,2};
+        //System.out.println(R);
+        //int partcipants=n;
+        double d = 42.195;
+    System.out.println("First method output\n");
+    //for(float i=0;i<R.length();i++)
+    for (double i:R) 
+    {
+      if (i == d)
+        {
+            /*System.out.println(i);
+            break;*/
+            continue;
+        }
+      else
+        {
+        System.out.println ("Highest Distance excluding Finishers:" + i);
+	    }
+    }
+    
+    System.out.println("\nSecond method output\n");
+    double [] S={33.33,42.9,39.56,-35.6,42.195};
+
+    for(double j:S)
+    {
+        if (j>42.195)
+        {
+            System.out.println("Highest Distance excluding Finishers:");
+            break;
+        }
+        else
+        {
+            System.out.println("Invalid Input");
+            break;
+        }
+    }
+    }
+}

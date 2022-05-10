@@ -1,0 +1,35 @@
+DCA Written Test Guide
+Shubham Mishra
+Developer.Life Sciences Eli Lilly..28 Jun
+Hi TCSers, sharing my all knowledge on DCA written exam with you. Take advantage of it, share it with all and I hope you all clear it asap.
+
+First, you have to be clear about topics, which are:
+
+1. 20 Verbal questions for which i think if your basic English is good, so it is easy. No need to spend more time on this.
+
+2. Numerical Apti, 15 ques. This section is most important you can say. its level is easy 5q + medium 10 q (example), for which three topics are most necessary, DATA INTERPRETATION (mostly Bar chart, pie chart), STATISTICS (mean, median, mode, range, std, all these for GROUP data too). These two topics will only cover more than 50% of questions.
+The others will be a mix from simplification and all quant topics (profit loss, SI CI, Work time, speed distance, pipe cistern & number system and others.)
+So you can learn from anywhere, i followed:
+-> IndiaBIX for basics (DI is good here)
+-> YouTube for understanding (Wifi study channel)
+-> RS aggarwal for practice
+
+NOTE: I am repeating again. DI and STATS are most important.
+
+3. Verbal Reasoning 15 ques. topics like relationship blood, ages, shapes, syllogism, statement and conclusion, arrangements and others. You can just practice few questions on these and learn the tricks from YouTube. It will be done.
+
+...............................................................................................................................................................................
+
+
+Now for the 2 Coding Questions:
+
+Language doesn't matter, Chose in whichever you are comfortable. Topics mainly to practice are:
+
+ARRAY/LIST + STRINGS up to MEDIUM level
+Source: GFG, LeetCode, Hackerank whichever you like
+
+So this was my experience, I shared with you all.
+
+The next cycle will happen on SEPTEMBER 2021.
+GOOOOODLUCK guys for that.
+Prepare Well and Rise to Digital Cadre :) :)

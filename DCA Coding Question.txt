@@ -1,0 +1,18 @@
+DCA Coding Questions
+Shubham Mishra
+Developer.Life Sciences Eli Lilly..3d
+Hi Guys, prepare for following coding questions to clear DCA:
+
+Language doesn't matter, Chose in whichever you are comfortable. Topics mainly to practice are:
+
+ARRAY/LIST + STRINGS up to MEDIUM level
+Source: GFG, LeetCode, Hackerank whichever you like
+
+Subtopics to prepare for:
+
+Recursion
+Dynamic Programming
+Sorting & Searching
+Calculating price of stocks i.e. maximizing profit
+Kadane Algorithm
+Daily practice 2-3 questions from any above platforms for these topics, and you will rock it.
